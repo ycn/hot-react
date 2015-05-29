@@ -1,0 +1,31 @@
+{
+  "name": "hot-react",
+  "version": "1.0.0",
+  "authors": [
+    "Andy Yuan <yuanyang@live.cn>"
+  ],
+  "main": "index.html",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.3",
+    "zepto": "~1.1.6",
+    "immutable": "~3.7.3",
+    "underscore": "~1.8.3",
+    "bootstrap": "~3.3.4",
+    "font-awsome": "~4.3.0",
+    "backbone": "~1.2.0",
+    "backbone.localStorage": "~1.1.16"
+  }
+}
